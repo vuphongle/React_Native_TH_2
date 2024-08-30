@@ -1,0 +1,10 @@
+1. Array --> functions --> map, reduce, fukter, find, any, some, flatMap,...
+
+2. Asys --> clear (callback) --> promise, fetch api, axios ...
+(JS Single thread) 1 thread --> web API --> setTimeout, setInterval
+
+require: finish --> get data
+
+rewrite map, fillter, reduce (xem công dụng cách dùng của nó v.v)
+Map - type
+map - function
